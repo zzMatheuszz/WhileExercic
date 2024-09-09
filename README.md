@@ -1,0 +1,2 @@
+# WhileExercic
+projeto while
